@@ -6,7 +6,7 @@ public class Main {
 
         String url="jdbc:mysql://localhost:3306/final_project";
         String usr="root";
-        String pass="lafamilia";
+        String pass="xyz";
         String query="select * from houses";
 
         Class.forName("com.mysql.cj.jdbc.Driver");
